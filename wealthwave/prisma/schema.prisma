@@ -1,0 +1,55 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "cockroachdb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String     @id @default(uuid())
+  email       String     @unique
+  name        String?
+  cashBalance Float
+  portfolio   Portfolio?
+}
+
+model Stock {
+  id        String           @id @default(uuid())
+  name      String
+  symbol    String
+  industry  String
+  summary   String
+  website   String
+  logoUrl   String
+  price     Float
+  portfolio PortfolioStock[]
+}
+
+model Portfolio {
+  id        String           @id @default(uuid())
+  userId    String           @unique
+  user      User             @relation(fields: [userId], references: [id])
+  stocks    PortfolioStock[]
+  createdAt DateTime         @default(now())
+}
+
+model PortfolioStock {
+  id          String   @id @default(uuid())
+  portfolioId String
+  stockId     String
+  quantity    Int
+  createdAt   DateTime @default(now())
+
+  portfolio Portfolio @relation(fields: [portfolioId], references: [id])
+  stock     Stock     @relation(fields: [stockId], references: [id])
+
+  @@unique([portfolioId, stockId])
+}
