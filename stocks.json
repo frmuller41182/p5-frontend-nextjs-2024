@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "industry": "Technology",
+    "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.",
+    "website": "https://www.apple.com",
+    "logoUrl": "https://logo.clearbit.com/apple.com",
+    "price": 145.09
+  },
+  {
+    "name": "Alphabet Inc.",
+    "symbol": "GOOGL",
+    "industry": "Technology",
+    "summary": "Alphabet Inc. provides online advertising services in the United States, Europe, the Middle East, Africa, Asia-Pacific, Canada, and Latin America.",
+    "website": "https://www.abc.xyz",
+    "logoUrl": "https://logo.clearbit.com/abc.xyz",
+    "price": 2738.8
+  },
+  {
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "industry": "Technology",
+    "summary": "Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide.",
+    "website": "https://www.microsoft.com",
+    "logoUrl": "https://logo.clearbit.com/microsoft.com",
+    "price": 299.35
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN",
+    "industry": "Consumer Services",
+    "summary": "Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America and internationally.",
+    "website": "https://www.amazon.com",
+    "logoUrl": "https://logo.clearbit.com/amazon.com",
+    "price": 3450.0
+  },
+  {
+    "name": "Facebook, Inc.",
+    "symbol": "FB",
+    "industry": "Technology",
+    "summary": "Facebook, Inc. operates as a social networking company worldwide.",
+    "website": "https://www.facebook.com",
+    "logoUrl": "https://logo.clearbit.com/facebook.com",
+    "price": 355.64
+  },
+  {
+    "name": "Tesla, Inc.",
+    "symbol": "TSLA",
+    "industry": "Consumer Durables",
+    "summary": "Tesla, Inc. designs, manufactures, and sells electric vehicles, energy generation and storage systems, and provides services related to its products.",
+    "website": "https://www.tesla.com",
+    "logoUrl": "https://logo.clearbit.com/tesla.com",
+    "price": 714.63
+  },
+  {
+    "name": "Berkshire Hathaway Inc.",
+    "symbol": "BRK.B",
+    "industry": "Finance",
+    "summary": "Berkshire Hathaway Inc. is a holding company that owns subsidiaries engaged in diverse business activities.",
+    "website": "https://www.berkshirehathaway.com",
+    "logoUrl": "https://logo.clearbit.com/berkshirehathaway.com",
+    "price": 276.1
+  },
+  {
+    "name": "Johnson & Johnson",
+    "symbol": "JNJ",
+    "industry": "Health Care",
+    "summary": "Johnson & Johnson researches and develops, manufactures, and sells various products in the health care field worldwide.",
+    "website": "https://www.jnj.com",
+    "logoUrl": "https://logo.clearbit.com/jnj.com",
+    "price": 163.64
+  },
+  {
+    "name": "Visa Inc.",
+    "symbol": "V",
+    "industry": "Finance",
+    "summary": "Visa Inc. operates as a payments technology company worldwide.",
+    "website": "https://www.visa.com",
+    "logoUrl": "https://logo.clearbit.com/visa.com",
+    "price": 231.72
+  },
+  {
+    "name": "Walmart Inc.",
+    "symbol": "WMT",
+    "industry": "Consumer Services",
+    "summary": "Walmart Inc. engages in the retail and wholesale operations in various formats worldwide.",
+    "website": "https://www.walmart.com",
+    "logoUrl": "https://logo.clearbit.com/walmart.com",
+    "price": 148.27
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "industry": "Technology",
+    "summary": "NVIDIA Corporation operates as a visual computing company worldwide.",
+    "website": "https://www.nvidia.com",
+    "logoUrl": "https://logo.clearbit.com/nvidia.com",
+    "price": 194.76
+  },
+  {
+    "name": "Procter & Gamble Co.",
+    "symbol": "PG",
+    "industry": "Consumer Non-Durables",
+    "summary": "Procter & Gamble Co. provides branded consumer packaged goods to consumers worldwide.",
+    "website": "https://www.pg.com",
+    "logoUrl": "https://logo.clearbit.com/pg.com",
+    "price": 144.49
+  },
+  {
+    "name": "PayPal Holdings, Inc.",
+    "symbol": "PYPL",
+    "industry": "Finance",
+    "summary": "PayPal Holdings, Inc. operates as a technology platform company that enables digital and mobile payments on behalf of consumers and merchants worldwide.",
+    "website": "https://www.paypal.com",
+    "logoUrl": "https://logo.clearbit.com/paypal.com",
+    "price": 289.19
+  },
+  {
+    "name": "The Home Depot, Inc.",
+    "symbol": "HD",
+    "industry": "Consumer Services",
+    "summary": "The Home Depot, Inc. operates as a home improvement retailer.",
+    "website": "https://www.homedepot.com",
+    "logoUrl": "https://logo.clearbit.com/homedepot.com",
+    "price": 329.5
+  },
+  {
+    "name": "Verizon Communications Inc.",
+    "symbol": "VZ",
+    "industry": "Public Utilities",
+    "summary": "Verizon Communications Inc. offers communications, information, and entertainment products and services to consumers, businesses, and governmental agencies worldwide.",
+    "website": "https://www.verizon.com",
+    "logoUrl": "https://logo.clearbit.com/verizon.com",
+    "price": 55.91
+  },
+  {
+    "name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "industry": "Technology",
+    "summary": "Adobe Inc. operates as a diversified software company worldwide.",
+    "website": "https://www.adobe.com",
+    "logoUrl": "https://logo.clearbit.com/adobe.com",
+    "price": 617.1
+  },
+  {
+    "name": "Netflix, Inc.",
+    "symbol": "NFLX",
+    "industry": "Consumer Services",
+    "summary": "Netflix, Inc. provides entertainment services.",
+    "website": "https://www.netflix.com",
+    "logoUrl": "https://logo.clearbit.com/netflix.com",
+    "price": 593.3
+  },
+  {
+    "name": "Mastercard Incorporated",
+    "symbol": "MA",
+    "industry": "Finance",
+    "summary": "Mastercard Incorporated, a technology company, provides transaction processing and other payment-related products and services.",
+    "website": "https://www.mastercard.com",
+    "logoUrl": "https://logo.clearbit.com/mastercard.com",
+    "price": 374.9
+  },
+  {
+    "name": "Walt Disney Company",
+    "symbol": "DIS",
+    "industry": "Consumer Services",
+    "summary": "The Walt Disney Company, together with its subsidiaries, operates as an entertainment company worldwide.",
+    "website": "https://www.disney.com",
+    "logoUrl": "https://logo.clearbit.com/disney.com",
+    "price": 176.18
+  },
+  {
+    "name": "JPMorgan Chase & Co.",
+    "symbol": "JPM",
+    "industry": "Finance",
+    "summary": "JPMorgan Chase & Co. operates as a financial services company worldwide.",
+    "website": "https://www.jpmorganchase.com",
+    "logoUrl": "https://logo.clearbit.com/jpmorganchase.com",
+    "price": 160.12
+  },
+  {
+    "name": "Intel Corporation",
+    "symbol": "INTC",
+    "industry": "Technology",
+    "summary": "Intel Corporation engages in the design, manufacture, and sale of computer products and technologies worldwide.",
+    "website": "https://www.intel.com",
+    "logoUrl": "https://logo.clearbit.com/intel.com",
+    "price": 54.45
+  },
+  {
+    "name": "AT&T Inc.",
+    "symbol": "T",
+    "industry": "Public Utilities",
+    "summary": "AT&T Inc. provides telecommunications, media, and technology services worldwide.",
+    "website": "https://www.att.com",
+    "logoUrl": "https://logo.clearbit.com/att.com",
+    "price": 28.26
+  },
+  {
+    "name": "UnitedHealth Group Incorporated",
+    "symbol": "UNH",
+    "industry": "Health Care",
+    "summary": "UnitedHealth Group Incorporated operates as a diversified health care company in the United States.",
+    "website": "https://www.unitedhealthgroup.com",
+    "logoUrl": "https://logo.clearbit.com/unitedhealthgroup.com",
+    "price": 404.25
+  },
+  {
+    "name": "The Coca-Cola Company",
+    "symbol": "KO",
+    "industry": "Consumer Non-Durables",
+    "summary": "The Coca-Cola Company, a beverage company, manufactures, markets, and sells various nonalcoholic beverages worldwide.",
+    "website": "https://www.coca-cola.com",
+    "logoUrl": "https://logo.clearbit.com/coca-cola.com",
+    "price": 56.25
+  },
+  {
+    "name": "Pfizer Inc.",
+    "symbol": "PFE",
+    "industry": "Health Care",
+    "summary": "Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide.",
+    "website": "https://www.pfizer.com",
+    "logoUrl": "https://logo.clearbit.com/pfizer.com",
+    "price": 43.6
+  },
+  {
+    "name": "PepsiCo, Inc.",
+    "symbol": "PEP",
+    "industry": "Consumer Non-Durables",
+    "summary": "PepsiCo, Inc. operates as a food and beverage company worldwide.",
+    "website": "https://www.pepsico.com",
+    "logoUrl": "https://logo.clearbit.com/pepsico.com",
+    "price": 153.52
+  },
+  {
+    "name": "Cisco Systems, Inc.",
+    "symbol": "CSCO",
+    "industry": "Technology",
+    "summary": "Cisco Systems, Inc. designs, manufactures, and sells Internet Protocol-based networking and other products related to the communications and information technology industry worldwide.",
+    "website": "https://www.cisco.com",
+    "logoUrl": "https://logo.clearbit.com/cisco.com",
+    "price": 55.55
+  },
+  {
+    "name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "industry": "Consumer Services",
+    "summary": "Comcast Corporation operates as a media and technology company worldwide.",
+    "website": "https://www.comcast.com",
+    "logoUrl": "https://logo.clearbit.com/comcast.com",
+    "price": 59.23
+  },
+  {
+    "name": "Exxon Mobil Corporation",
+    "symbol": "XOM",
+    "industry": "Energy",
+    "summary": "Exxon Mobil Corporation explores for and produces crude oil and natural gas in the United States and internationally.",
+    "website": "https://www.exxonmobil.com",
+    "logoUrl": "https://logo.clearbit.com/exxonmobil.com",
+    "price": 59.89
+  },
+  {
+    "name": "Oracle Corporation",
+    "symbol": "ORCL",
+    "industry": "Technology",
+    "summary": "Oracle Corporation provides products and services that address all aspects of corporate information technology environments worldwide.",
+    "website": "https://www.oracle.com",
+    "logoUrl": "https://logo.clearbit.com/oracle.com",
+    "price": 88.94
+  },
+  {
+    "name": "Nike, Inc.",
+    "symbol": "NKE",
+    "industry": "Consumer Non-Durables",
+    "summary": "NIKE, Inc., together with its subsidiaries, designs, develops, markets, and sells athletic footwear, apparel, equipment, and accessories worldwide.",
+    "website": "https://www.nike.com",
+    "logoUrl": "https://logo.clearbit.com/nike.com",
+    "price": 150.25
+  },
+  {
+    "name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "industry": "Health Care",
+    "summary": "Abbott Laboratories discovers, develops, manufactures, and sells health care products worldwide.",
+    "website": "https://www.abbott.com",
+    "logoUrl": "https://logo.clearbit.com/abbott.com",
+    "price": 123.48
+  },
+  {
+    "name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "industry": "Health Care",
+    "summary": "AbbVie Inc. discovers, develops, manufactures, and sells pharmaceutical products worldwide.",
+    "website": "https://www.abbvie.com",
+    "logoUrl": "https://logo.clearbit.com/abbvie.com",
+    "price": 113.57
+  },
+  {
+    "name": "Merck & Co., Inc.",
+    "symbol": "MRK",
+    "industry": "Health Care",
+    "summary": "Merck & Co., Inc. provides health care solutions worldwide.",
+    "website": "https://www.merck.com",
+    "logoUrl": "https://logo.clearbit.com/merck.com",
+    "price": 78.09
+  },
+  {
+    "name": "The Boeing Company",
+    "symbol": "BA",
+    "industry": "Capital Goods",
+    "summary": "The Boeing Company designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and missiles worldwide.",
+    "website": "https://www.boeing.com",
+    "logoUrl": "https://logo.clearbit.com/boeing.com",
+    "price": 234.31
+  },
+  {
+    "name": "International Business Machines Corporation",
+    "symbol": "IBM",
+    "industry": "Technology",
+    "summary": "International Business Machines Corporation provides integrated solutions and services worldwide.",
+    "website": "https://www.ibm.com",
+    "logoUrl": "https://logo.clearbit.com/ibm.com",
+    "price": 144.79
+  },
+  {
+    "name": "Salesforce.com Inc.",
+    "symbol": "CRM",
+    "industry": "Technology",
+    "summary": "Salesforce.com, inc. develops enterprise cloud computing solutions with a focus on customer relationship management worldwide.",
+    "website": "https://www.salesforce.com",
+    "logoUrl": "https://logo.clearbit.com/salesforce.com",
+    "price": 243.98
+  },
+  {
+    "name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "industry": "Health Care",
+    "summary": "Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide.",
+    "website": "https://www.bms.com",
+    "logoUrl": "https://logo.clearbit.com/bms.com",
+    "price": 66.29
+  },
+  {
+    "name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "industry": "Health Care",
+    "summary": "Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide.",
+    "website": "https://www.amgen.com",
+    "logoUrl": "https://logo.clearbit.com/amgen.com",
+    "price": 232.98
+  },
+  {
+    "name": "Chevron Corporation",
+    "symbol": "CVX",
+    "industry": "Energy",
+    "summary": "Chevron Corporation, through its subsidiaries, engages in integrated energy, chemicals, and petroleum operations worldwide.",
+    "website": "https://www.chevron.com",
+    "logoUrl": "https://logo.clearbit.com/chevron.com",
+    "price": 103.29
+  },
+  {
+    "name": "Citigroup Inc.",
+    "symbol": "C",
+    "industry": "Finance",
+    "summary": "Citigroup Inc., a diversified financial services holding company, provides various financial products and services to consumers, corporations, governments, and institutions worldwide.",
+    "website": "https://www.citigroup.com",
+    "logoUrl": "https://logo.clearbit.com/citigroup.com",
+    "price": 67.19
+  },
+  {
+    "name": "American Express Company",
+    "symbol": "AXP",
+    "industry": "Finance",
+    "summary": "American Express Company, together with its subsidiaries, provides charge and credit payment card products and travel-related services worldwide.",
+    "website": "https://www.americanexpress.com",
+    "logoUrl": "https://logo.clearbit.com/americanexpress.com",
+    "price": 179.51
+  },
+  {
+    "name": "NextEra Energy, Inc.",
+    "symbol": "NEE",
+    "industry": "Public Utilities",
+    "summary": "NextEra Energy, Inc., through its subsidiaries, generates renewable energy from wind and solar projects.",
+    "website": "https://www.nexteraenergy.com",
+    "logoUrl": "https://logo.clearbit.com/nexteraenergy.com",
+    "price": 77.54
+  },
+  {
+    "name": "McDonald's Corporation",
+    "symbol": "MCD",
+    "industry": "Consumer Services",
+    "summary": "McDonald's Corporation operates and franchises McDonald's restaurants in the United States and internationally.",
+    "website": "https://www.mcdonalds.com",
+    "logoUrl": "https://logo.clearbit.com/mcdonalds.com",
+    "price": 239.22
+  },
+  {
+    "name": "Wells Fargo & Company",
+    "symbol": "WFC",
+    "industry": "Finance",
+    "summary": "Wells Fargo & Company, a diversified financial services company, provides banking, investment, mortgage, and consumer and commercial finance products and services.",
+    "website": "https://www.wellsfargo.com",
+    "logoUrl": "https://logo.clearbit.com/wellsfargo.com",
+    "price": 46.77
+  },
+  {
+    "name": "Qualcomm Incorporated",
+    "symbol": "QCOM",
+    "industry": "Technology",
+    "summary": "QUALCOMM Incorporated designs, develops, manufactures, and markets digital telecommunications products and services.",
+    "website": "https://www.qualcomm.com",
+    "logoUrl": "https://logo.clearbit.com/qualcomm.com",
+    "price": 137.29
+  },
+  {
+    "name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "industry": "Technology",
+    "summary": "Broadcom Inc. designs, develops, and supplies a range of semiconductor devices worldwide.",
+    "website": "https://www.broadcom.com",
+    "logoUrl": "https://logo.clearbit.com/broadcom.com",
+    "price": 482.52
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc.",
+    "symbol": "TMO",
+    "industry": "Health Care",
+    "summary": "Thermo Fisher Scientific Inc. provides analytical instruments, equipment, reagents, consumables, software, and services for research, analysis, discovery, and diagnostics.",
+    "website": "https://www.thermofisher.com",
+    "logoUrl": "https://logo.clearbit.com/thermofisher.com",
+    "price": 579.95
+  },
+  {
+    "name": "Texas Instruments Incorporated",
+    "symbol": "TXN",
+    "industry": "Technology",
+    "summary": "Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers worldwide.",
+    "website": "https://www.ti.com",
+    "logoUrl": "https://logo.clearbit.com/ti.com",
+    "price": 191.52
+  },
+  {
+    "name": "Lowe's Companies, Inc.",
+    "symbol": "LOW",
+    "industry": "Consumer Services",
+    "summary": "Lowe's Companies, Inc. operates as a home improvement retailer in the United States, Canada, and Mexico.",
+    "website": "https://www.lowes.com",
+    "logoUrl": "https://logo.clearbit.com/lowes.com",
+    "price": 201.37
+  },
+  {
+    "name": "Danaher Corporation",
+    "symbol": "DHR",
+    "industry": "Health Care",
+    "summary": "Danaher Corporation designs, manufactures, and markets professional, medical, industrial, and commercial products and services worldwide.",
+    "website": "https://www.danaher.com",
+    "logoUrl": "https://logo.clearbit.com/danaher.com",
+    "price": 290.77
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "symbol": "UNP",
+    "industry": "Transportation",
+    "summary": "Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, operates railroads in the United States.",
+    "website": "https://www.up.com",
+    "logoUrl": "https://logo.clearbit.com/up.com",
+    "price": 218.64
+  },
+  {
+    "name": "Honeywell International Inc.",
+    "symbol": "HON",
+    "industry": "Capital Goods",
+    "summary": "Honeywell International Inc. operates as a diversified technology and manufacturing company worldwide.",
+    "website": "https://www.honeywell.com",
+    "logoUrl": "https://logo.clearbit.com/honeywell.com",
+    "price": 222.5
+  },
+  {
+    "name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "industry": "Health Care",
+    "summary": "AbbVie Inc. discovers, develops, manufactures, and sells pharmaceutical products worldwide.",
+    "website": "https://www.abbvie.com",
+    "logoUrl": "https://logo.clearbit.com/abbvie.com",
+    "price": 118.13
+  },
+  {
+    "name": "Prologis, Inc.",
+    "symbol": "PLD",
+    "industry": "Consumer Services",
+    "summary": "Prologis, Inc. is the global leader in logistics real estate.",
+    "website": "https://www.prologis.com",
+    "logoUrl": "https://logo.clearbit.com/prologis.com",
+    "price": 122.41
+  },
+  {
+    "name": "Medtronic plc",
+    "symbol": "MDT",
+    "industry": "Health Care",
+    "summary": "Medtronic plc develops, manufactures, distributes, and sells device-based medical therapies to hospitals, physicians, clinicians, and patients worldwide.",
+    "website": "https://www.medtronic.com",
+    "logoUrl": "https://logo.clearbit.com/medtronic.com",
+    "price": 127.76
+  },
+  {
+    "name": "Costco Wholesale Corporation",
+    "symbol": "COST",
+    "industry": "Consumer Services",
+    "summary": "Costco Wholesale Corporation operates membership warehouses.",
+    "website": "https://www.costco.com",
+    "logoUrl": "https://logo.clearbit.com/costco.com",
+    "price": 462.91
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "industry": "Capital Goods",
+    "summary": "Caterpillar Inc. manufactures and sells construction and mining equipment, diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives worldwide.",
+    "website": "https://www.caterpillar.com",
+    "logoUrl": "https://logo.clearbit.com/caterpillar.com",
+    "price": 208.89
+  },
+  {
+    "name": "Lockheed Martin Corporation",
+    "symbol": "LMT",
+    "industry": "Capital Goods",
+    "summary": "Lockheed Martin Corporation is a global security and aerospace company.",
+    "website": "https://www.lockheedmartin.com",
+    "logoUrl": "https://logo.clearbit.com/lockheedmartin.com",
+    "price": 369.81
+  },
+  {
+    "name": "Goldman Sachs Group, Inc.",
+    "symbol": "GS",
+    "industry": "Finance",
+    "summary": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities, and investment management firm.",
+    "website": "https://www.goldmansachs.com",
+    "logoUrl": "https://logo.clearbit.com/goldmansachs.com",
+    "price": 399.23
+  },
+  {
+    "name": "Schlumberger Limited",
+    "symbol": "SLB",
+    "industry": "Energy",
+    "summary": "Schlumberger Limited provides technology for reservoir characterization, drilling, production, and processing to the oil and gas industry worldwide.",
+    "website": "https://www.slb.com",
+    "logoUrl": "https://logo.clearbit.com/slb.com",
+    "price": 30.69
+  },
+  {
+    "name": "General Electric Company",
+    "symbol": "GE",
+    "industry": "Capital Goods",
+    "summary": "General Electric Company operates as a high-tech industrial company worldwide.",
+    "website": "https://www.ge.com",
+    "logoUrl": "https://logo.clearbit.com/ge.com",
+    "price": 103.57
+  },
+  {
+    "name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "industry": "Health Care",
+    "summary": "Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide.",
+    "website": "https://www.bms.com",
+    "logoUrl": "https://logo.clearbit.com/bms.com",
+    "price": 66.29
+  },
+  {
+    "name": "3M Company",
+    "symbol": "MMM",
+    "industry": "Health Care",
+    "summary": "3M Company operates as a diversified technology company worldwide.",
+    "website": "https://www.3m.com",
+    "logoUrl": "https://logo.clearbit.com/3m.com",
+    "price": 198.81
+  },
+  {
+    "name": "Starbucks Corporation",
+    "symbol": "SBUX",
+    "industry": "Consumer Services",
+    "summary": "Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of specialty coffee worldwide.",
+    "website": "https://www.starbucks.com",
+    "logoUrl": "https://logo.clearbit.com/starbucks.com",
+    "price": 112.89
+  },
+  {
+    "name": "Pfizer Inc.",
+    "symbol": "PFE",
+    "industry": "Health Care",
+    "summary": "Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide.",
+    "website": "https://www.pfizer.com",
+    "logoUrl": "https://logo.clearbit.com/pfizer.com",
+    "price": 43.6
+  },
+  {
+    "name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "industry": "Consumer Services",
+    "summary": "Charter Communications, Inc. operates as a broadband connectivity and cable operator company serving residential and commercial customers in the United States.",
+    "website": "https://www.spectrum.com",
+    "logoUrl": "https://logo.clearbit.com/spectrum.com",
+    "price": 731.65
+  },
+  {
+    "name": "Boeing Company",
+    "symbol": "BA",
+    "industry": "Capital Goods",
+    "summary": "The Boeing Company designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and missiles worldwide.",
+    "website": "https://www.boeing.com",
+    "logoUrl": "https://logo.clearbit.com/boeing.com",
+    "price": 234.31
+  },
+  {
+    "name": "Colgate-Palmolive Company",
+    "symbol": "CL",
+    "industry": "Consumer Non-Durables",
+    "summary": "Colgate-Palmolive Company manufactures and sells consumer products worldwide.",
+    "website": "https://www.colgatepalmolive.com",
+    "logoUrl": "https://logo.clearbit.com/colgatepalmolive.com",
+    "price": 79.64
+  },
+  {
+    "name": "Kimberly-Clark Corporation",
+    "symbol": "KMB",
+    "industry": "Consumer Non-Durables",
+    "summary": "Kimberly-Clark Corporation manufactures and markets personal care, consumer tissue, and professional products worldwide.",
+    "website": "https://www.kimberly-clark.com",
+    "logoUrl": "https://logo.clearbit.com/kimberly-clark.com",
+    "price": 134.01
+  },
+  {
+    "name": "Target Corporation",
+    "symbol": "TGT",
+    "industry": "Consumer Services",
+    "summary": "Target Corporation operates as a general merchandise retailer in the United States.",
+    "website": "https://www.target.com",
+    "logoUrl": "https://logo.clearbit.com/target.com",
+    "price": 251.93
+  },
+  {
+    "name": "Phillips 66",
+    "symbol": "PSX",
+    "industry": "Energy",
+    "summary": "Phillips 66 operates as an energy manufacturing and logistics company.",
+    "website": "https://www.phillips66.com",
+    "logoUrl": "https://logo.clearbit.com/phillips66.com",
+    "price": 71.89
+  },
+  {
+    "name": "General Dynamics Corporation",
+    "symbol": "GD",
+    "industry": "Capital Goods",
+    "summary": "General Dynamics Corporation operates as an aerospace and defense company worldwide.",
+    "website": "https://www.gd.com",
+    "logoUrl": "https://logo.clearbit.com/gd.com",
+    "price": 196.64
+  },
+  {
+    "name": "American Tower Corporation",
+    "symbol": "AMT",
+    "industry": "Consumer Services",
+    "summary": "American Tower Corporation, together with its subsidiaries, owns, operates, and develops multitenant communications real estate properties.",
+    "website": "https://www.americantower.com",
+    "logoUrl": "https://logo.clearbit.com/americantower.com",
+    "price": 270.92
+  },
+  {
+    "name": "Anthem, Inc.",
+    "symbol": "ANTM",
+    "industry": "Health Care",
+    "summary": "Anthem, Inc., through its subsidiaries, operates as a health benefits company in the United States.",
+    "website": "https://www.anthem.com",
+    "logoUrl": "https://logo.clearbit.com/anthem.com",
+    "price": 373.78
+  },
+  {
+    "name": "Stryker Corporation",
+    "symbol": "SYK",
+    "industry": "Health Care",
+    "summary": "Stryker Corporation operates as a medical technology company.",
+    "website": "https://www.stryker.com",
+    "logoUrl": "https://logo.clearbit.com/stryker.com",
+    "price": 262.91
+  },
+  {
+    "name": "Southern Company",
+    "symbol": "SO",
+    "industry": "Public Utilities",
+    "summary": "The Southern Company, through its subsidiaries, engages in the generation, transmission, and distribution of electricity.",
+    "website": "https://www.southerncompany.com",
+    "logoUrl": "https://logo.clearbit.com/southerncompany.com",
+    "price": 63.76
+  },
+  {
+    "name": "Cigna Corporation",
+    "symbol": "CI",
+    "industry": "Health Care",
+    "summary": "Cigna Corporation provides insurance and related products and services.",
+    "website": "https://www.cigna.com",
+    "logoUrl": "https://logo.clearbit.com/cigna.com",
+    "price": 224.61
+  },
+  {
+    "name": "Humana Inc.",
+    "symbol": "HUM",
+    "industry": "Health Care",
+    "summary": "Humana Inc. operates as a health and well-being company.",
+    "website": "https://www.humana.com",
+    "logoUrl": "https://logo.clearbit.com/humana.com",
+    "price": 445.01
+  },
+  {
+    "name": "Allergan plc",
+    "symbol": "AGN",
+    "industry": "Health Care",
+    "summary": "Allergan plc, a specialty pharmaceutical company, develops, manufactures, markets, and distributes medical aesthetics, biosimilar, and over-the-counter pharmaceutical products.",
+    "website": "https://www.allergan.com",
+    "logoUrl": "https://logo.clearbit.com/allergan.com",
+    "price": 193.0
+  },
+  {
+    "name": "Eli Lilly and Company",
+    "symbol": "LLY",
+    "industry": "Health Care",
+    "summary": "Eli Lilly and Company discovers, develops, manufactures, and markets pharmaceutical products worldwide.",
+    "website": "https://www.lilly.com",
+    "logoUrl": "https://logo.clearbit.com/lilly.com",
+    "price": 222.65
+  },
+  {
+    "name": "MetLife, Inc.",
+    "symbol": "MET",
+    "industry": "Finance",
+    "summary": "MetLife, Inc. provides insurance, annuities, employee benefits, and asset management services worldwide.",
+    "website": "https://www.metlife.com",
+    "logoUrl": "https://logo.clearbit.com/metlife.com",
+    "price": 61.35
+  },
+  {
+    "name": "Aetna Inc.",
+    "symbol": "AET",
+    "industry": "Health Care",
+    "summary": "Aetna Inc. operates as a health care benefits company.",
+    "website": "https://www.aetna.com",
+    "logoUrl": "https://logo.clearbit.com/aetna.com",
+    "price": 212.7
+  },
+  {
+    "name": "Moody's Corporation",
+    "symbol": "MCO",
+    "industry": "Finance",
+    "summary": "Moody's Corporation provides credit ratings; research, tools, and analysis to financial markets worldwide.",
+    "website": "https://www.moodys.com",
+    "logoUrl": "https://logo.clearbit.com/moodys.com",
+    "price": 331.71
+  },
+  {
+    "name": "Norfolk Southern Corporation",
+    "symbol": "NSC",
+    "industry": "Transportation",
+    "summary": "Norfolk Southern Corporation, together with its subsidiaries, engages in the rail transportation of raw materials, intermediate products, and finished goods.",
+    "website": "https://www.nscorp.com",
+    "logoUrl": "https://logo.clearbit.com/nscorp.com",
+    "price": 253.1
+  },
+  {
+    "name": "Equinix, Inc.",
+    "symbol": "EQIX",
+    "industry": "Consumer Services",
+    "summary": "Equinix, Inc. is an American multinational company that specializes in internet connection and related services.",
+    "website": "https://www.equinix.com",
+    "logoUrl": "https://logo.clearbit.com/equinix.com",
+    "price": 739.85
+  },
+  {
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "symbol": "REGN",
+    "industry": "Health Care",
+    "summary": "Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines for treating various medical conditions worldwide.",
+    "website": "https://www.regeneron.com",
+    "logoUrl": "https://logo.clearbit.com/regeneron.com",
+    "price": 597.47
+  },
+  {
+    "name": "Public Storage",
+    "symbol": "PSA",
+    "industry": "Consumer Services",
+    "summary": "Public Storage operates as a real estate investment trust (REIT).",
+    "website": "https://www.publicstorage.com",
+    "logoUrl": "https://logo.clearbit.com/publicstorage.com",
+    "price": 300.61
+  },
+  {
+    "name": "Celgene Corporation",
+    "symbol": "CELG",
+    "industry": "Health Care",
+    "summary": "Celgene Corporation, a biopharmaceutical company, discovers, develops, and commercializes therapies for the treatment of cancer and inflammatory diseases worldwide.",
+    "website": "https://www.celgene.com",
+    "logoUrl": "https://logo.clearbit.com/celgene.com",
+    "price": 97.8
+  },
+  {
+    "name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "industry": "Health Care",
+    "summary": "Biogen Inc. discovers, develops, manufactures, and delivers therapies for treating neurological and neurodegenerative diseases worldwide.",
+    "website": "https://www.biogen.com",
+    "logoUrl": "https://logo.clearbit.com/biogen.com",
+    "price": 290.45
+  }
+]
